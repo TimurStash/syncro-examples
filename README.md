@@ -12,6 +12,8 @@ Requirements
 * Redis
 * [node.js](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
 * CoffeeScript
+* [IcedCoffeeScript] (http://maxtaco.github.com/coffee-script/)
+* [supervisor] (https://github.com/isaacs/node-supervisor)
 
 Ubuntu Quick setup
 ------------------
